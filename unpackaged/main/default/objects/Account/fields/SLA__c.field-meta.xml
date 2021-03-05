@@ -24,11 +24,6 @@
                 <default>false</default>
                 <label>Bronze</label>
             </value>
-            <value>
-                <fullName>Platinum</fullName>
-                <default>false</default>
-                <label>Platinum</label>
-            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
